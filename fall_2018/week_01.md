@@ -1,22 +1,22 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+This past week I was focused on getting the new Observatory devs up and running,
+and I also began discussing VueJS with them. This process entailed getting
+people's environments setup (node, npm, docker, etc.).
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+This week I am planning on meeting with Alex to create some issues on GitHub,
+and will distribute the issues amongst the team members. I will also be trying
+to ensure that there is plenty of low-hanging fruit for the team members new to
+VueJS to pick up so that they can easily transition into JavaScript development.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+Since the Observatory leadership is being passed down to me from Alex, I need to
+understand where Alex left off with Observatory's development. So, getting that
+understanding is my/my team's main blocker right now.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+No other notes at this time.
